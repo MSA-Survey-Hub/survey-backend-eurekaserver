@@ -53,7 +53,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>${docker.image.prefix}/${project.artifactId}:latest</name>
+						<name>dhdudwn95/teamcloud:eureka</name>
 					</image>
 				</configuration>
 			</plugin>
